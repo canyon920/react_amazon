@@ -5,5 +5,4 @@
   what is react ?
   
   
-  i'm not composition API 
   functional Component. 
